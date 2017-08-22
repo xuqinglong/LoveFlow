@@ -30,12 +30,3 @@ dependencies {
     compile 'com.android.support:appcompat-v7:26.0.0-alpha1'
     testCompile 'junit:junit:4.12'
 }
-//添加
-publish {
-    userOrg = 'qinglxgithub'//bintray.com用户名
-    groupId = 'com.allen.views'//jcenter上的路径
-    artifactId = 'LoveFlow'//项目名称
-    publishVersion = '0.0.1'//版本号
-    desc = '爱心飘动，点赞效果'//描述，不重要
-    website = 'https://github.com/xuqinglong/LoveFlow'//网站，不重要；尽量模拟github上的地址，例如我这样的；当然你有地址最好了
-}
