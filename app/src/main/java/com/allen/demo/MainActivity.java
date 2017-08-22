@@ -1,4 +1,4 @@
-package com.allen.views;
+package com.allen.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
